@@ -1,0 +1,7 @@
+bed
+bending
+couch
+laying
+sitting
+standing
+x
